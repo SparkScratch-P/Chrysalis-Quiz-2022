@@ -1,6 +1,6 @@
 ![img](https://dpsjoka.com/wp-content/uploads/2020/04/site-logo.png)
 
-<iframe src="https://turbowarp.org/embed.html#765591643/embed" allowtransparency="true" width="100%" height="100%" frameborder="0" scrolling="yes" allowfullscreen></iframe>
+<iframe src="https://turbowarp.org/embed.html#765591643/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="yes" allowfullscreen></iframe>
 
 ---
 
